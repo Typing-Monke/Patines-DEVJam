@@ -38,7 +38,7 @@ El juego fue uno de los más descargados de la Jam, destacándose entre decenas 
 - **Espacio**: Saltas, planear (mantener)
 
 ## Descarga
-Puedes descargar *Patines* desde [Itch.io]([https://ruta-a-la-pagina.itch.io](https://typing-monke.itch.io/patines)) u otras plataformas indicadas en el repositorio.
+Puedes descargar *Patines* desde [Itch.io](https://typing-monke.itch.io/patines) u otras plataformas indicadas en el repositorio.
 
 ---
 
