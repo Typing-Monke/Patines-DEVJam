@@ -12,9 +12,11 @@ El juego fue uno de los más descargados de la Jam, destacándose entre decenas 
 ## Imágenes del Proyecto
 
 
-![Captura de pantalla 1](ruta/a/imagen1.png)
+![Captura de pantalla 1](https://img.itch.zone/aW1nLzE0MjE4OTQxLnBuZw==/original/x0MW5L.png)
 
-![Captura de pantalla 2](ruta/a/imagen2.png)
+<div align="center">
+  <img src="https://img.itch.zone/aW1hZ2UvMjQwMTAwNS8xNDIxOTQyMS5qcGc=/347x500/0XZPNe.jpg" alt="Captura de pantalla 1" width="500"/>
+</div>
 
 ---
 
@@ -33,9 +35,10 @@ El juego fue uno de los más descargados de la Jam, destacándose entre decenas 
 ## Controles
 - **S**: Deslizar con el patín izquierdo
 - **D**: Deslizar con el patín derecho
+- **Espacio**: Saltas, planear (mantener)
 
 ## Descarga
-Puedes descargar *Patines* desde [Itch.io]([https://ruta-a-la-pagina.itch.io](https://typing-monke.itch.io/patines)) u otras plataformas indicadas en el repositorio.
+Puedes descargar *Patines* desde [Itch.io](https://typing-monke.itch.io/patines) u otras plataformas indicadas en el repositorio.
 
 ---
 
