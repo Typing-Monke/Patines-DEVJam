@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2390455420104340101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8067957049380024682}
+  - component: {fileID: 169619214371286226}
+  m_Layer: 0
+  m_Name: PauseManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8067957049380024682
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2390455420104340101}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -26.91989, y: 52.688976, z: 124.583046}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &169619214371286226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2390455420104340101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9170863ddb9ba484b85577c598a14619, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Wheels
+    tag: 1
+    clip: {fileID: 8300000, guid: a2e63b415f7bff5479336f9bdb4c6dea, type: 3}
+    volume: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Jump
+    tag: 1
+    clip: {fileID: 8300000, guid: 0ec216e645daf6d4d80c8837cbc8f787, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Quack
+    tag: 1
+    clip: {fileID: 8300000, guid: 447e90f2c34689d47b5062b0acdeaa42, type: 3}
+    volume: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Glide
+    tag: 1
+    clip: {fileID: 8300000, guid: d99d201f08292d642b1c10476d7ea1a6, type: 3}
+    volume: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Break
+    tag: 1
+    clip: {fileID: 8300000, guid: 18a1a85b656889146a729e31105c5fd0, type: 3}
+    volume: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: Walk
+    tag: 1
+    clip: {fileID: 8300000, guid: e0397f6fafac6704ebc2c767851d6765, type: 3}
+    volume: 0
+    loop: 1
+    source: {fileID: 0}
+  - name: ButtonClick
+    tag: 1
+    clip: {fileID: 8300000, guid: 55e24cb2dc26fa24cb16d8c2599099c8, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: MainMenu
+    tag: 0
+    clip: {fileID: 8300000, guid: 06a17f831b8ce554882eb088bf69ee04, type: 3}
+    volume: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Level1
+    tag: 0
+    clip: {fileID: 8300000, guid: a0ee9f0deafc5014d902904b90b055c4, type: 3}
+    volume: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Level2
+    tag: 0
+    clip: {fileID: 8300000, guid: 1b01fe71d4cdf3946ba1d8bc360cce34, type: 3}
+    volume: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Level3
+    tag: 0
+    clip: {fileID: 8300000, guid: 1b7ae0edd61d20540a3fc5125ce2e281, type: 3}
+    volume: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Museum
+    tag: 0
+    clip: {fileID: 8300000, guid: afbb85f4300d8dc41a4456bc8576ce19, type: 3}
+    volume: 1
+    loop: 1
+    source: {fileID: 0}

@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6450756216684516649
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 627027284088568907, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -100.755
+      objectReference: {fileID: 0}
+    - target: {fileID: 627027284088568907, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 37.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 627027284088568907, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 128.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 627027284088568907, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 627027284088568907, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 627027284088568907, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 627027284088568907, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 627027284088568907, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 627027284088568907, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 627027284088568907, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 803774893455001236, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1590347201329352862, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: breakSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 18a1a85b656889146a729e31105c5fd0, type: 3}
+    - target: {fileID: 4058053187751248964, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4811620329982568168, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: quackSound
+      value: 
+      objectReference: {fileID: 8300000, guid: cc6f6778a63f45442bd8eca027e1952d, type: 3}
+    - target: {fileID: 4816482185510716621, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: animationName
+      value: Walk
+      objectReference: {fileID: 0}
+    - target: {fileID: 4816482185510716621, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: movementFXSound
+      value: 
+      objectReference: {fileID: 8300000, guid: d30dc9f67be86524d988b7455bf9d12e, type: 3}
+    - target: {fileID: 5496387441598070273, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: currentState
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5496387441598070273, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: ragdollEnabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6036813240480095562, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: jumpSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 0ec216e645daf6d4d80c8837cbc8f787, type: 3}
+    - target: {fileID: 6293284254480811949, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: m_Name
+      value: PlayerLobbyRagdoll
+      objectReference: {fileID: 0}
+    - target: {fileID: 6823202237501750952, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: glideSound
+      value: 
+      objectReference: {fileID: 8300000, guid: d99d201f08292d642b1c10476d7ea1a6, type: 3}
+    - target: {fileID: 7431327610995079261, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: force
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7431327610995079261, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: maxSpeed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7431327610995079261, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: backForce
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7431327610995079261, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: glideTime
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 7431327610995079261, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: jumpForce
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7431327610995079261, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: breakForce
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7431327610995079261, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: smoothRotation
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 7431327610995079261, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: jumpFloatFactor
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753222527274353040, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: glideSound
+      value: 
+      objectReference: {fileID: 8300000, guid: d99d201f08292d642b1c10476d7ea1a6, type: 3}
+    - target: {fileID: 8814194814683987504, guid: 5b143657f8b3137478e17afaffb8ef6a,
+        type: 3}
+      propertyPath: glideSound
+      value: 
+      objectReference: {fileID: 8300000, guid: d99d201f08292d642b1c10476d7ea1a6, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5b143657f8b3137478e17afaffb8ef6a, type: 3}
